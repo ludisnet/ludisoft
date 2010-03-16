@@ -1,0 +1,7 @@
+U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\Movies_renamer.MainForm.resources
+U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\Movies renamer.csproj.GenerateResource.Cache
+U:\LuL_dev\Movies renamer\Movies renamer\bin\Debug\Movies renamer.exe
+U:\LuL_dev\Movies renamer\Movies renamer\bin\Debug\Movies renamer.pdb
+U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\Movies renamer.exe
+U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\Movies renamer.pdb
