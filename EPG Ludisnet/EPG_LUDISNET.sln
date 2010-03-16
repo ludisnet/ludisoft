@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.3800
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPG_Ludisnet 2.0", "EPG Ludisnet 2.0\EPG_Ludisnet 2.0.csproj", "{244CBF78-6399-4B9B-93ED-8285F06103FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244CBF78-6399-4B9B-93ED-8285F06103FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244CBF78-6399-4B9B-93ED-8285F06103FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244CBF78-6399-4B9B-93ED-8285F06103FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244CBF78-6399-4B9B-93ED-8285F06103FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
