@@ -111,7 +111,7 @@ namespace Movies_renamer
 			// 
 			// filtercover
 			// 
-			this.filtercover.Location = new System.Drawing.Point(72, 58);
+			this.filtercover.Location = new System.Drawing.Point(74, 68);
 			this.filtercover.Name = "filtercover";
 			this.filtercover.Size = new System.Drawing.Size(178, 20);
 			this.filtercover.TabIndex = 4;
@@ -119,7 +119,7 @@ namespace Movies_renamer
 			// 
 			// filtermovie
 			// 
-			this.filtermovie.Location = new System.Drawing.Point(357, 58);
+			this.filtermovie.Location = new System.Drawing.Point(362, 68);
 			this.filtermovie.Name = "filtermovie";
 			this.filtermovie.Size = new System.Drawing.Size(178, 20);
 			this.filtermovie.TabIndex = 4;
@@ -146,7 +146,7 @@ namespace Movies_renamer
 			// label1
 			// 
 			this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-			this.label1.Location = new System.Drawing.Point(12, 58);
+			this.label1.Location = new System.Drawing.Point(14, 68);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(54, 23);
 			this.label1.TabIndex = 5;
@@ -154,7 +154,7 @@ namespace Movies_renamer
 			// 
 			// label2
 			// 
-			this.label2.Location = new System.Drawing.Point(297, 62);
+			this.label2.Location = new System.Drawing.Point(300, 68);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(54, 23);
 			this.label2.TabIndex = 5;
@@ -186,7 +186,7 @@ namespace Movies_renamer
 			// 
 			// checkBox1
 			// 
-			this.checkBox1.Location = new System.Drawing.Point(72, 85);
+			this.checkBox1.Location = new System.Drawing.Point(12, 38);
 			this.checkBox1.Name = "checkBox1";
 			this.checkBox1.Size = new System.Drawing.Size(177, 24);
 			this.checkBox1.TabIndex = 7;
