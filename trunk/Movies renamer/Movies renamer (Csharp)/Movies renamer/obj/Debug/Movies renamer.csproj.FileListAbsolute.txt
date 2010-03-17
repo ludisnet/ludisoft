@@ -5,3 +5,10 @@ U:\LuL_dev\Movies renamer\Movies renamer\bin\Debug\Movies renamer.exe
 U:\LuL_dev\Movies renamer\Movies renamer\bin\Debug\Movies renamer.pdb
 U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\Movies renamer.exe
 U:\LuL_dev\Movies renamer\Movies renamer\obj\Debug\Movies renamer.pdb
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\bin\Debug\Movies renamer.exe
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\bin\Debug\Movies renamer.pdb
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\obj\Debug\Movies_renamer.MainForm.resources
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\obj\Debug\Movies renamer.csproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\obj\Debug\Movies renamer.exe
+C:\Documents and Settings\lul\My Documents\LuL\Ludisoft\Movies renamer\Movies renamer (Csharp)\Movies renamer\obj\Debug\Movies renamer.pdb
