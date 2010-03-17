@@ -1,0 +1,9 @@
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\bin\Debug\How-To Menus.exe
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\bin\Debug\How-To Menus.pdb
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\frmAbout.resources
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\frmEdit.resources
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\frmMain.resources
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\How-To Menus.csproj.GenerateResource.Cache
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\How-To Menus.exe
+U:\LuL_dev\Csharp\Samples\Windows Forms - How-To Menus\obj\Debug\How-To Menus.pdb

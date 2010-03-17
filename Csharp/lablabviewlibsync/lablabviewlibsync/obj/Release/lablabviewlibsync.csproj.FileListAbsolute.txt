@@ -1,0 +1,5 @@
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\bin\Release\lablabviewlibsync.exe
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Release\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Release\lablabviewlibsync.MainForm.resources
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Release\lablabviewlibsync.csproj.GenerateResource.Cache
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Release\lablabviewlibsync.exe

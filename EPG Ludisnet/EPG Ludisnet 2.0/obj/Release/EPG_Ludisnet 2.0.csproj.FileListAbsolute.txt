@@ -1,0 +1,9 @@
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\bin\Release\EPG_Ludisnet 2.0.exe
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\bin\Release\EPG_Ludisnet 2.0.pdb
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\obj\Release\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\obj\Release\Telechargement.Telechargement.resources
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\obj\Release\Telechargement.Properties.Resources.resources
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\obj\Release\EPG_Ludisnet 2.0.csproj.GenerateResource.Cache
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\obj\Release\EPG_Ludisnet 2.0.exe
+C:\LuL\LuL_dev\EPG Ludisnet\EPG Ludisnet 2.0\obj\Release\EPG_Ludisnet 2.0.pdb

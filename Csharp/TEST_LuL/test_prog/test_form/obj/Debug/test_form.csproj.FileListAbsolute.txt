@@ -1,0 +1,7 @@
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\obj\Debug\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\obj\Debug\test_form.MainForm.resources
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\obj\Debug\test_form.csproj.GenerateResource.Cache
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\bin\Debug\test_form.exe
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\bin\Debug\test_form.pdb
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\obj\Debug\test_form.exe
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_form\obj\Debug\test_form.pdb

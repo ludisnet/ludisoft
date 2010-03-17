@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DllMenu", "DllMenu.vbproj", "{FB821A5B-78BA-436A-B4B1-7604E7071F89}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test", "..\Test\Test.vbproj", "{3670D06F-ECA5-4001-A77D-6770ABB175CE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Debug.ActiveCfg = Debug|.NET
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Debug.Build.0 = Debug|.NET
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Release.ActiveCfg = Release|.NET
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Release.Build.0 = Release|.NET
+		{3670D06F-ECA5-4001-A77D-6770ABB175CE}.Debug.ActiveCfg = Debug|.NET
+		{3670D06F-ECA5-4001-A77D-6770ABB175CE}.Debug.Build.0 = Debug|.NET
+		{3670D06F-ECA5-4001-A77D-6770ABB175CE}.Release.ActiveCfg = Release|.NET
+		{3670D06F-ECA5-4001-A77D-6770ABB175CE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

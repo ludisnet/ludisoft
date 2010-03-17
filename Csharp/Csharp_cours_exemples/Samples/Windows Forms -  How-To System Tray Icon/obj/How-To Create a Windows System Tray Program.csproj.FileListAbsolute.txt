@@ -1,0 +1,8 @@
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\bin\Debug\How-To Create a Windows System Tray Program.exe
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\bin\Debug\How-To Create a Windows System Tray Program.pdb
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\frmAbout.resources
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\frmMain.resources
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.csproj.GenerateResource.Cache
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.exe
+U:\LuL_dev\Csharp\Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.pdb

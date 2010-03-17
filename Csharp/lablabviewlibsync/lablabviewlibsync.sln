@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.3800
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lablabviewlibsync", "lablabviewlibsync\lablabviewlibsync.csproj", "{1AFF52DA-79E9-4007-BCA4-708E0A9D325C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFF52DA-79E9-4007-BCA4-708E0A9D325C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFF52DA-79E9-4007-BCA4-708E0A9D325C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFF52DA-79E9-4007-BCA4-708E0A9D325C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFF52DA-79E9-4007-BCA4-708E0A9D325C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

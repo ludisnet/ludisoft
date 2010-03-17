@@ -1,0 +1,5 @@
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\bin\Debug\test2.exe
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\bin\Debug\test2.pdb
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\test2.exe
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\test2.pdb

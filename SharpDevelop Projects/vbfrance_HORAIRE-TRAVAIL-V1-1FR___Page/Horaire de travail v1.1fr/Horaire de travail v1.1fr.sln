@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 2.2.1.2648
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Horaire de travail v1.1fr", "Horaire de travail v1.1fr.vbproj", "{0A2606B4-A005-4EAE-919C-B04C52CBC5CC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DllMenu", "..\DllMenu\DllMenu.vbproj", "{FB821A5B-78BA-436A-B4B1-7604E7071F89}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SortListView", "..\SortListView\SortListView.vbproj", "{D4C4396D-0CFF-4F2F-A7F2-3DBAEB7E6A77}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A2606B4-A005-4EAE-919C-B04C52CBC5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2606B4-A005-4EAE-919C-B04C52CBC5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2606B4-A005-4EAE-919C-B04C52CBC5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2606B4-A005-4EAE-919C-B04C52CBC5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB821A5B-78BA-436A-B4B1-7604E7071F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C4396D-0CFF-4F2F-A7F2-3DBAEB7E6A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C4396D-0CFF-4F2F-A7F2-3DBAEB7E6A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C4396D-0CFF-4F2F-A7F2-3DBAEB7E6A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C4396D-0CFF-4F2F-A7F2-3DBAEB7E6A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

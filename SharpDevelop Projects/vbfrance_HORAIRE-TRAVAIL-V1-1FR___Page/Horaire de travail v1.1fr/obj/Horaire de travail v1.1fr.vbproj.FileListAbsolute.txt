@@ -1,0 +1,16 @@
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\bin\Horaire de travail v1.1fr.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\bin\Horaire de travail v1.1fr.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\bin\DllMenu.dll
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\bin\SortListView.dll
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\bin\SortListView.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\WindowsApplication1.Form_Aproposde.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\WindowsApplication1.Form_Attente.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\WindowsApplication1.Form_Envoyer.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\WindowsApplication1.Form_Index.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\WindowsApplication1.Form_Insérer.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\WindowsApplication1.Form_Utilisateur.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\Horaire de travail v1.1fr.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\Horaire de travail v1.1fr.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\obj\Debug\Horaire de travail v1.1fr.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\bin\DllMenu.pdb

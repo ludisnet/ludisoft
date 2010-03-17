@@ -1,0 +1,10 @@
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\bin\Debug\Tutos Fichier.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\bin\Debug\Tutos Fichier.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\bin\Debug\Tutos Fichier.xml
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\Tutos_Fichier.Form1.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\Tutos_Fichier.Resources.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\Tutos Fichier.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\Tutos Fichier.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\Tutos Fichier.xml
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Tutos_Fichier\Tutos Fichier\obj\Debug\Tutos Fichier.pdb

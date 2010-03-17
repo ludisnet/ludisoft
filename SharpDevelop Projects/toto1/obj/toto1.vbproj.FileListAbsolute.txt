@@ -1,0 +1,13 @@
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\bin\Debug\toto1.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\bin\Debug\toto1.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Debug\toto1.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Debug\toto1.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Debug\toto1.MainForm.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Debug\toto1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\bin\Release\toto1.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Release\toto1.MainForm.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Release\toto1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Release\toto1.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\toto1\obj\Debug\toto1.Form1.resources

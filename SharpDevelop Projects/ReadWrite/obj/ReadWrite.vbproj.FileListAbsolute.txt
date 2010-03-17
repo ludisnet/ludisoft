@@ -1,0 +1,7 @@
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\obj\Debug\ReadWrite.ReadWrite.FrmReadWrite.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\obj\Debug\ReadWrite.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\obj\Debug\ReadWrite.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\obj\Debug\ReadWrite.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\bin\ReadWrite.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\ReadWrite\bin\ReadWrite.pdb

@@ -1,0 +1,14 @@
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.MainForm.resources
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.csproj.GenerateResource.Cache
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\bin\Debug\lablabviewlibsync.exe
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\bin\Debug\lablabviewlibsync.pdb
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.exe
+U:\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.pdb
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.MainForm.resources
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.csproj.GenerateResource.Cache
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.exe
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\obj\Debug\lablabviewlibsync.pdb
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\bin\Debug\lablabviewlibsync.exe
+C:\LuL\LuL_dev\Csharp\lablabviewlibsync\lablabviewlibsync\bin\Debug\lablabviewlibsync.pdb

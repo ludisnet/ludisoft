@@ -1,0 +1,5 @@
+U:\LuL_dev\labview sync\Labview sync\bin\Release\Labview sync 0.1.exe
+U:\LuL_dev\labview sync\Labview sync\obj\Release\ResolveAssemblyReference.cache
+U:\LuL_dev\labview sync\Labview sync\obj\Release\Labview_sync.MainForm.resources
+U:\LuL_dev\labview sync\Labview sync\obj\Release\Labview sync 0.1.csproj.GenerateResource.Cache
+U:\LuL_dev\labview sync\Labview sync\obj\Release\Labview sync 0.1.exe

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Application : Horaire de travail v1.0 fr -->
+<Option>
+  <ComboBox>
+    <Entreprise>Autre</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Cours Masséna</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>CPAM</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Ecole blanche de Castille</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Institut St Josef</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Repos</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Résidence Eiffel</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Pauliani</Entreprise>
+  </ComboBox>
+  <ComboBox>
+    <Entreprise>Afpa</Entreprise>
+  </ComboBox>
+</Option>
+<!-- Application : Horaire de travail v1.0 fr -->
