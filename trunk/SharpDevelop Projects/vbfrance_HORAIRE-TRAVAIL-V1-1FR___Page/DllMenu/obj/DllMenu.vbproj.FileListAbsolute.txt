@@ -1,0 +1,7 @@
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\bin\DllMenu.dll
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\bin\DllMenu.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\obj\Debug\DllMenu.MyMenu.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\obj\Debug\DllMenu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\obj\Debug\DllMenu.dll
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\DllMenu\obj\Debug\DllMenu.pdb

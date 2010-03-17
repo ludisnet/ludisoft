@@ -1,0 +1,8 @@
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\bin\Debug\Telechargement.exe
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\bin\Debug\Telechargement.pdb
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\obj\Debug\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\obj\Debug\Telechargement.Telechargement.resources
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\obj\Debug\Telechargement.Properties.Resources.resources
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\obj\Debug\Telechargement.csproj.GenerateResource.Cache
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\obj\Debug\Telechargement.exe
+C:\LuL\LuL_dev\code-2008_DL_FIle\Telechargement\Telechargement\obj\Debug\Telechargement.pdb

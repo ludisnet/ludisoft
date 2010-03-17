@@ -1,0 +1,99 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" xmlns:Conversion="urn:Conversion">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0A2606B4-A005-4EAE-919C-B04C52CBC5CC}</ProjectGuid>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Horaire de travail v1.1fr</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <ApplicationIcon>Toon.ico</ApplicationIcon>
+    <RunPostBuildEvent>OnSuccessfulBuild</RunPostBuildEvent>
+    <PreBuildEvent />
+    <PostBuildEvent />
+    <StartupObject>WindowsApplication1.Form_Index</StartupObject>
+    <NoConfig>false</NoConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <NoStdLib />
+    <WarningLevel>1</WarningLevel>
+    <NoWarn />
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <AllowUnsafeBlocks />
+    <CheckForOverflowUnderflow />
+    <DefineConstants />
+    <OutputPath>bin\</OutputPath>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <NoStdLib />
+    <WarningLevel>1</WarningLevel>
+    <NoWarn />
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <AllowUnsafeBlocks />
+    <CheckForOverflowUnderflow />
+    <DefineConstants />
+    <OutputPath>bin\</OutputPath>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web" />
+    <Reference Include="DllMenu">
+      <HintPath>..\DllMenu\bin\DllMenu.dll</HintPath>
+      <Private />
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A_propos_de.vb" />
+    <EmbeddedResource Include="A_propos_de.resx">
+      <DependentUpon>A_propos_de.vb</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="AssemblyInfo.vb" />
+    <Compile Include="Attente.vb" />
+    <EmbeddedResource Include="Attente.resx">
+      <DependentUpon>Attente.vb</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Destinataire.vb" />
+    <EmbeddedResource Include="Destinataire.resx">
+      <DependentUpon>Destinataire.vb</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="DisableCroix.vb" />
+    <Compile Include="Index.vb" />
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.vb</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Insérer.vb" />
+    <EmbeddedResource Include="Insérer.resx">
+      <DependentUpon>Insérer.vb</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="Toon.ico" />
+    <Compile Include="Utilisateur.vb" />
+    <EmbeddedResource Include="Utilisateur.resx">
+      <DependentUpon>Utilisateur.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\vbfrance_HORAIRE-TRAVAIL-V1-1FR___Page\Horaire de travail v1.1fr\..\SortListView\SortListView.vbproj">
+      <Project>{D4C4396D-0CFF-4F2F-A7F2-3DBAEB7E6A77}</Project>
+      <Name>SortListView</Name>
+      <Private />
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.Targets" />
+</Project>

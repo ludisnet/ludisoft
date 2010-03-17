@@ -1,0 +1,10 @@
+obj\Debug\Tutos Fichier.exe
+obj\Debug\Tutos Fichier.xml
+obj\Debug\Tutos Fichier.pdb
+bin\Debug\Tutos Fichier.exe
+bin\Debug\Tutos Fichier.pdb
+bin\Debug\Tutos Fichier.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Tutos_Fichier.Form1.resources
+obj\Debug\Tutos_Fichier.Resources.resources
+obj\Debug\Tutos Fichier.vbproj.GenerateResource.Cache

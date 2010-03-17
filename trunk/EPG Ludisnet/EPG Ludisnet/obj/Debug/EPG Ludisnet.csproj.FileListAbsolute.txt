@@ -1,0 +1,6 @@
+U:\LuL_dev\EPG Ludisnet\EPG Ludisnet\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\EPG Ludisnet\EPG Ludisnet\bin\Debug\EPG Ludisnet.exe
+U:\LuL_dev\EPG Ludisnet\EPG Ludisnet\bin\Debug\EPG Ludisnet.pdb
+U:\LuL_dev\EPG Ludisnet\EPG Ludisnet\obj\Debug\EPG Ludisnet.exe
+U:\LuL_dev\EPG Ludisnet\EPG Ludisnet\obj\Debug\EPG Ludisnet.pdb
+U:\LuL_dev\EPG Ludisnet\EPG Ludisnet\bin\Debug\ICSharpCode.SharpZipLib.dll

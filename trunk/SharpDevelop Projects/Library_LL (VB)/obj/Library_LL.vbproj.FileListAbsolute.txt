@@ -1,0 +1,18 @@
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\bin\Debug\Library_LL.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\bin\Debug\Library_LL.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.form2.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.MainForm.resources
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.exe
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.pdb
+C:\Documents and Settings\lul\My Documents\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.form_test.resources
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.form2.resources
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.MainForm.resources
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.form_test.resources
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.vbproj.GenerateResource.Cache
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.exe
+U:\LuL_dev\SharpDevelop Projects\Library_LL\obj\Debug\Library_LL.pdb
+U:\LuL_dev\SharpDevelop Projects\Library_LL\bin\Debug\Library_LL.exe
+U:\LuL_dev\SharpDevelop Projects\Library_LL\bin\Debug\Library_LL.pdb

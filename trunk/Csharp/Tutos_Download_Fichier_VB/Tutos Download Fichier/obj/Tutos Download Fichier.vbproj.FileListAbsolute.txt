@@ -1,0 +1,10 @@
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\bin\Debug\Tutos Download Fichier.exe
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\bin\Debug\Tutos Download Fichier.pdb
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\bin\Debug\Tutos Download Fichier.xml
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\ResolveAssemblyReference.cache
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\Tutos_Download_Fichier.Form1.resources
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\Tutos_Download_Fichier.Resources.resources
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\Tutos Download Fichier.vbproj.GenerateResource.Cache
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\Tutos Download Fichier.exe
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\Tutos Download Fichier.xml
+C:\LuL\Downloads\Tutos_Download_Fichier\Tutos Download Fichier\obj\Debug\Tutos Download Fichier.pdb

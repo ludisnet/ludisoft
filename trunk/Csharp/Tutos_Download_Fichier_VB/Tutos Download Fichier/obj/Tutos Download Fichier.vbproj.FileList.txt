@@ -1,0 +1,20 @@
+bin\Debug\Tutos Download Fichier.exe
+bin\Debug\Tutos Download Fichier.pdb
+bin\Debug\Tutos Download Fichier.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Tutos_Download_Fichier.Form1.resources
+obj\Debug\Tutos_Download_Fichier.Resources.resources
+obj\Debug\Tutos Download Fichier.vbproj.GenerateResource.Cache
+obj\Debug\Tutos Download Fichier.exe
+obj\Debug\Tutos Download Fichier.xml
+obj\Debug\Tutos Download Fichier.pdb
+bin\Release\Tutos Download Fichier.exe
+bin\Release\Tutos Download Fichier.pdb
+bin\Release\Tutos Download Fichier.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Tutos_Download_Fichier.Form1.resources
+obj\Release\Tutos_Download_Fichier.Resources.resources
+obj\Release\Tutos Download Fichier.vbproj.GenerateResource.Cache
+obj\Release\Tutos Download Fichier.exe
+obj\Release\Tutos Download Fichier.xml
+obj\Release\Tutos Download Fichier.pdb

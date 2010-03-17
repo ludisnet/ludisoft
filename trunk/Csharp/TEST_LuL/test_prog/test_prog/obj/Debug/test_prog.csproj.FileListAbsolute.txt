@@ -1,0 +1,12 @@
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\bin\Debug\test_prog.exe
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\bin\Debug\test_prog.pdb
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\obj\Debug\test_prog.exe
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\obj\Debug\test_prog.pdb
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\bin\Debug\test_prog.exe
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\bin\Debug\test_prog.pdb
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\obj\Debug\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\obj\Debug\test_prog.exe
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test_prog\obj\Debug\test_prog.pdb

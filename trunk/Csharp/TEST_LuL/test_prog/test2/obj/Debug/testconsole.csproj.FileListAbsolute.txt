@@ -1,0 +1,10 @@
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\bin\Debug\testconsole.exe
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\bin\Debug\testconsole.pdb
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\testconsole.exe
+U:\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\testconsole.pdb
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test2\bin\Debug\testconsole.exe
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test2\bin\Debug\testconsole.pdb
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\ResolveAssemblyReference.cache
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\testconsole.exe
+C:\LuL\LuL_dev\Csharp\TEST_LuL\test_prog\test2\obj\Debug\testconsole.pdb

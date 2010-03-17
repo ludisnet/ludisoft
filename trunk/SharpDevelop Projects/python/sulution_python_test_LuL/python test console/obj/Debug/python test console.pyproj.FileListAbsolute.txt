@@ -1,0 +1,8 @@
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\bin\Debug\python test console.exe
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\bin\Debug\python test console.dll
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\bin\Debug\IronPython.dll
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\bin\Debug\Microsoft.Scripting.Core.dll
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\bin\Debug\Microsoft.Scripting.dll
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\bin\Debug\Microsoft.Scripting.ExtensionAttribute.dll
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\obj\Debug\ResolveAssemblyReference.cache
+U:\LuL_dev\SharpDevelop Projects\python\sulution_python_test_LuL\python test console\obj\Debug\python test console.exe
